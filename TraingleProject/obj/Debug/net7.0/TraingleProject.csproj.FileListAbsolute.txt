@@ -1,0 +1,15 @@
+C:\Users\acer\OneDrive\Desktop\Traingle\TraingleProject\TraingleProject\obj\Debug\net7.0\TraingleProject.csproj.AssemblyReference.cache
+C:\Users\acer\OneDrive\Desktop\Traingle\TraingleProject\TraingleProject\obj\Debug\net7.0\TraingleProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\OneDrive\Desktop\Traingle\TraingleProject\TraingleProject\obj\Debug\net7.0\TraingleProject.AssemblyInfoInputs.cache
+C:\Users\acer\OneDrive\Desktop\Traingle\TraingleProject\TraingleProject\obj\Debug\net7.0\TraingleProject.AssemblyInfo.cs
+C:\Users\acer\OneDrive\Desktop\Traingle\TraingleProject\TraingleProject\obj\Debug\net7.0\TraingleProject.csproj.CoreCompileInputs.cache
+C:\Users\acer\OneDrive\Desktop\Traingle\TraingleProject\TraingleProject\bin\Debug\net7.0\TraingleProject.exe
+C:\Users\acer\OneDrive\Desktop\Traingle\TraingleProject\TraingleProject\bin\Debug\net7.0\TraingleProject.deps.json
+C:\Users\acer\OneDrive\Desktop\Traingle\TraingleProject\TraingleProject\bin\Debug\net7.0\TraingleProject.runtimeconfig.json
+C:\Users\acer\OneDrive\Desktop\Traingle\TraingleProject\TraingleProject\bin\Debug\net7.0\TraingleProject.dll
+C:\Users\acer\OneDrive\Desktop\Traingle\TraingleProject\TraingleProject\bin\Debug\net7.0\TraingleProject.pdb
+C:\Users\acer\OneDrive\Desktop\Traingle\TraingleProject\TraingleProject\obj\Debug\net7.0\TraingleProject.dll
+C:\Users\acer\OneDrive\Desktop\Traingle\TraingleProject\TraingleProject\obj\Debug\net7.0\refint\TraingleProject.dll
+C:\Users\acer\OneDrive\Desktop\Traingle\TraingleProject\TraingleProject\obj\Debug\net7.0\TraingleProject.pdb
+C:\Users\acer\OneDrive\Desktop\Traingle\TraingleProject\TraingleProject\obj\Debug\net7.0\TraingleProject.genruntimeconfig.cache
+C:\Users\acer\OneDrive\Desktop\Traingle\TraingleProject\TraingleProject\obj\Debug\net7.0\ref\TraingleProject.dll
